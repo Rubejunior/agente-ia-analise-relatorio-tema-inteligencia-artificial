@@ -1,0 +1,27 @@
+Agentes:
+1. Pesquisador de Mercado: 
+- Descrição: esse agente é responsavel por coletar e organizar as informações sobre o mercado de um determinado setor.
+Ele se dedica a encontrar dados relevantes, identificar os principais players e compreender as tendências do setor.
+A principal tarefa do pesquisador de mercado é garantir que todos os dados estaja atualizados e em documentos para posterior analise.
+- Objetivo: Coletar e organizar informações detalhadas sobre o setor para facilitar a analise de tendência e  elaboração de relatórios.
+
+
+2. Analista de tendência:
+- Descrição: analisa os dados coletados pelo pesquisador de mercado e procura identificar padrões, oportunidades e ameaças ao setor.
+É responsável por realizar uma análise profunda para destacar as tendências emergentes e dinâmicas de mercado que podem afetar o setor
+- Objetivo: Analisar os dados do setor, identificar tendência e gerar insights que ajudem na tomada de decisão.
+
+3. Redator de relatórios:
+- Descrição: transforma as analises do analista de tendência em relatório estruturado e compreeensível para tomadores de decisão.
+Ele cria um documento final com visão clara das informações e recomendações estratégicas com base nas análises de mercado.
+- Objetivo: elaborar relatório detalhado que sintetize as descobertas e análise do setor apresetando de forma clara  as tendências e sugestões de ação.
+
+
+Objetivo Geral do Programa:
+O programa tem objetivo gerar um relatório de análise de mercado sobre um determinado setor, indentificando os principais players, tendências e estatisticas relevantes.
+1. Coleta de dados: O pesquisador de mercado coleta as informações atualizadas do setor identificando os principais players, tendências e estátisticas relevantes.
+2. Análise de Tendência: O Analista de tendência analisa os dados coletados, buscando padrõe, oportunidades e ameaças emergentes. 
+3. Elaboração de relatório: o redator de relatórios usa análise de tendências para criar um documentos estruturado com resumo executivo e recomendações baseadas nas conclusões de estudo.
+
+Essas tarefas são orquestradas por um Crew, que envove a colaboração dos três agentes para fornecer um relatório consolidado sobre o setor escolhido. (Exemplo desse código o setor é Inteligência Artificial)
+Ao final o programa gera um relatório em markdown que pode ser visualizado em PDF para ser compartilhado ou apresentado.
